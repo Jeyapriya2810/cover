@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-## Date:
+## Date:05/05/2025
+## Name:JEYAPRIYA.J Reg no:212224100027
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
